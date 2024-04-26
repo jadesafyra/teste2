@@ -1,0 +1,8 @@
+27-03 aula 
+
+variaveis e constantes
+os computadores processam dados que ficam em sua memoria sendo assim o programa precisa de uma forma para acessar esta memoria e consequentemente os dados para isso e necessario saber onde o dado esta ou qual e o seu endereco- cria um endereco fixo para essa variavel
+constante e tudo aquilo que e fixo ou estavel por exemplo seu cpf
+declaracao de variavel- uma variavel corresponde a uma posicao de memoria- toda variavel precisa ter um nome, o nome dela e usada para identificacao e ser tipada, ter um tipo ex idade que tipo de daos e esse, e um numero inteiro, var guardar o numero
+   os tipos de variaveis e constantes mudam de acordo com o conteudo que as mesmas vao armazenar, por exemplo se e preciso guardar o nome de um cliente o tipo de variavel a ser utilizada e - string-
+  ex variavel nome guarda "maria rita". variavel caractere deve estar entre "" 
